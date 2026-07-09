@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
-    "version": "1.21.1"
+    "ip": "Fusion-star-smp.aternos.me",
+    "port": 13756,
+    "version": "1.26.2"
   },
   "position": {
     "enabled": true,
